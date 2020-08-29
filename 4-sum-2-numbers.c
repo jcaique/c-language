@@ -22,7 +22,7 @@ int main()
 
         system("cls");
 
-        printf("Result of the sum by %d + %d: %.2f \n", number1, number2, result);
+        printf("Result of the sum by %f + %f: %.2f \n", number1, number2, result);
 
         printf("Type 1 to continue or any for stop.\n");
         scanf("%d", &stop);

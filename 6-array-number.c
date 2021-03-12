@@ -7,7 +7,7 @@ int main()
     int array[size], arrLen;
     int i; //the counter to loop for
 
-    printf("Insert a qunatity value for the int array: ");
+    printf("Insert int value for the array quantity: ");
     scanf("%d", &arrLen);
     
     //Getting values to each array's positions
